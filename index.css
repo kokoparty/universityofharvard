@@ -1,0 +1,78 @@
+h1{
+    color:black;
+    text-align:center;
+    border:2px double black;
+    font-size:50px;
+    font-weight:bold;
+    text-shadow:2px 2px  black;
+    background-color:red;
+    border-radius:30px;
+    background-image:linear-gradient(red, yellow);
+
+
+}
+img{
+width:100%;
+border:4px solid black;
+border-radius: 50px;
+height: 300px;
+padding:10px 
+;
+opacity:0.8;
+
+}
+h2:hover {
+color: tomato;
+
+}
+b{
+font-size: 25px;
+
+}
+details{
+    width: 100%;
+    margin-top: 15px;
+    font-size: 30px;
+}
+table{
+    width: 500px;
+    height:100px ;
+    margin-top:50px;
+}
+td{
+background-image:linear-gradient(black, red)
+}
+td{
+    color: white;
+}
+th{
+    background-color: yellow;
+    
+}
+video{
+    width: 500px;
+
+}
+audio{
+    width:500px ;
+    background-color: tomato;
+}
+.h{
+    font-size: 25px;
+    margin-bottom: 6px;
+}
+button{
+    width: 120px;
+    margin-left: 17px;
+    margin-top: 10px;
+}
+.w{
+    background-color:yellow;
+}
+.q{
+    margin-top: 10px;
+    background-color: yellow;
+}
+body{
+    background-image:linear-gradient(rgb(212, 212, 228),white);
+}
